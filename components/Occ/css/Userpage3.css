@@ -1,0 +1,60 @@
+
+.mdl-layout__inner-container{
+    overflow-y: hidden !important;
+}
+.root{
+    margin:0px Auto;
+    /* overflow-y: scroll; */
+    width:100%;
+    height:fit-content;
+    position: relative;  
+    /* position changed to relative */
+}
+.mdl-layout{
+    position: relative !important;
+}
+.content{
+    /* position: absolute;  new */
+    background-color:white;    
+    
+}
+.maindiv{
+    display: flex;
+    position: relative;
+}
+.drawerdiv{
+    
+    position: relative;
+    width: 20%;
+}
+.contentdiv{
+    
+   position: relative;
+    width: 80%;
+    height: 570px;
+    overflow: auto;
+}
+a.mdl-navigation__link.home{
+    color: white;
+    font-size: 16px;
+    
+  }
+
+  .MuiDrawer-paperAnchorDockedLeft{
+      position: absolute !important;
+      width:100%; 
+      height:auto !important;
+      
+  }
+
+  .datadiv{
+      position:relative;
+  }
+  .appbardiv{
+      position: relative;
+  }
+
+  header.mdl-layout__header.header-color{
+      width: 100%;
+      position: relative;
+  }

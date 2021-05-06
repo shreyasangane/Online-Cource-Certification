@@ -1,0 +1,12 @@
+.courseTable{
+    overflow-x: scroll;
+    overflow-y: scroll;
+}
+
+.addcourse{
+font-size: 20px
+}
+
+  table td {
+    border: 2px solid black; 
+  }

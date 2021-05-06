@@ -1,0 +1,30 @@
+.outside{
+    margin: 10px auto ;    
+    border: 2px solid black;
+}
+
+.header{
+    margin: 10px auto ;    
+    border: 2px ridge green;
+    text-align: center;
+}
+
+.inner{
+    display: flex;
+}
+
+.leftinner{
+    width:20%;
+    border: 1px solid red;
+    text-align: center;
+    
+}
+.rightinner{
+    width: 80%;
+    border: 1px solid purple;
+}
+
+.btn-admin{
+    margin-top:50px;
+    
+}

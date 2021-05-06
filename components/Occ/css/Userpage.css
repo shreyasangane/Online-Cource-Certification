@@ -1,0 +1,14 @@
+.MuiMenuItem-root{
+    font-size: 50px;
+}
+
+.MuiSelect-select.MuiSelect-select{
+    margin-left:40px;
+    color: white;
+    
+}
+
+svg.MuiSvgIcon-root.MuiSelect-icon{
+    color: white;
+  
+}

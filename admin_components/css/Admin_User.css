@@ -1,0 +1,8 @@
+.userTable{
+    overflow-x: scroll;
+    overflow-y: scroll;
+}
+
+table td {
+    border: 2px solid black; 
+  }

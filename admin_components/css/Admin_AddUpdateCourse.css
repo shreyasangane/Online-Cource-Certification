@@ -1,0 +1,17 @@
+.Admin_AddUpdateCoursediv{
+    margin-left: 400px
+}
+
+.submit
+{
+    margin-left: 200px;
+    margin-top: 20px
+}
+
+input[type="text"]{
+    width:100%
+}
+
+table td {
+    border: 2px solid black; 
+  }
