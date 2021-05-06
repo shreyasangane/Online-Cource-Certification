@@ -1,12 +1,12 @@
 # Online-Cource-Certification
 Platform to pursue professional courses and get certified.
 
-Hardware/Software:-
-Database:- MySql Community Server
-Front-End Development Language :- React.js
-Tool Used in Front-End Development:- Visual Studio Code
-Server-Side Development Language :- Java, Java Spring Boot
-Tool Used in Server-Side Development:- Eclipse(2019-12)
+### Hardware/Software:-
+##### Database:- MySql Community Server
+##### Front-End Development Language :- React.js
+##### Tool Used in Front-End Development:- Visual Studio Code
+##### Server-Side Development Language :- Java, Java Spring Boot
+##### Tool Used in Server-Side Development:- Eclipse(2019-12)
 
 ![Optional Text](../master/Workflow/1.png)
 ![Optional Text](../master/Workflow/2.png)
